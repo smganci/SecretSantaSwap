@@ -28,7 +28,7 @@ public class SantaList {
 
 	}
 
-	// plan cycle through all the santas and assign them a randomly selected giftee
+	// cycle through all the santas and assign them a randomly selected giftee
 	// if the giftee matches, assign another giftee
 	// remove the giftee from the list
 	// if last giftee and santa match, do a swap
@@ -59,7 +59,6 @@ public class SantaList {
 			}
 		}
 
-		// somehow randomly assign
 
 	}
 
